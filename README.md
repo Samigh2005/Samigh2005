@@ -1,112 +1,76 @@
-# Hi, I'm cxyfreedom
+# Hi there 👋, I'm Sami Faisal Al-Mazhani
 
-A senior backend developer from China, based in Shanghai. I regulary write articles on Obsidian.
+### 🎓 Information Technology Student | Level 3
 
-## About Me
+I'm an Information Technology student passionate about learning new technologies, building practical projects, and improving my programming skills. I'm always looking for opportunities to develop myself and contribute to open-source projects.
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:cxyfreedom@gmail.com)
-[![](https://img.shields.io/github/stars/cxyfreedom?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cxyfreedom&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/cxyfreedom?color=27da6b&logo=Handshake)](https://github.com/cxyfreedom?tab=followers)
+---
 
-## Tools
+## 👨‍💻 About Me
 
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
+- 🎓 Information Technology Student (Level 3)
+- 📍 Yemen
+- 💻 Interested in Software Development
+- 🌱 Currently learning:
+  - Python
+  - Java
+  - Web Development
+  - Database Systems
+- 🎯 Goal: Become a Professional Software Engineer
 
-## Technology Stack
+---
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+## 🛠️ Languages & Tools
 
-## Stats
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
 
-![](./profile/stats.svg)
+---
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
+## 📚 Currently Learning
 
-![](./profile/top-langs.svg)
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Database Design
+- Web Development
+- Git & GitHub
 
-![](./profile/trophy.svg)
+---
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C991%20hrs%2036%20mins-blue)
+## 📈 GitHub Stats
 
-**🐱 My GitHub Data** 
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-> 🏆 33 Contributions in the Year 2026
- > 
-> 📦 228.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 64 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-```text
-🌞 Morning    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
-🌆 Daytime    31 commits     ████████████░░░░░░░░░░░░░   48.44% 
-🌃 Evening    20 commits     ███████░░░░░░░░░░░░░░░░░░   31.25% 
-🌙 Night      8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+---
 
-```
-📅 **I'm Most Productive on Monday** 
+## 🚀 Projects
 
-```text
-Monday       17 commits     ██████░░░░░░░░░░░░░░░░░░░   26.56% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-Wednesday    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-Thursday     8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Friday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Saturday     16 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Sunday       8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Here are some of my university and personal projects:
 
-```
+- 📌 Student Management System
+- 📌 Library Management System
+- 📌 Personal Portfolio Website
+- 📌 Python Desktop Applications
 
+---
 
-📊 **This Week I Spent My Time On** 
+## 📫 Contact Me
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: your-email@example.com
+- LinkedIn: (Optional)
 
-🔥 Editors: 
-No Activity Tracked This Week
+---
 
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             ████████████░░░░░░░░░░░░░   50.0% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-
-
- Last Updated on 21/07/2026
-<!--END_SECTION:waka-->
-
-<!--
-**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+> *"Keep learning, keep building, and never stop improving."* 🚀
