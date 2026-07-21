@@ -1,13 +1,17 @@
 <h1 align="center">
+  👋 مرحبًا، أنا سامي فيصل المزحاني
+  <br>
   Hi 👋, I'm Sami Faisal Al-Mazhani
 </h1>
 
 <h3 align="center">
+🎓 طالب تقنية معلومات - المستوى الثالث
+<br>
 🎓 Information Technology Student | Level 3
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Flutter+%26+Dart+Learner;Database+Administration+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=طالب+تقنية+معلومات;Information+Technology+Student;Flutter+%26+Dart+Learner;Database+Administration+Enthusiast;Future+Software+Engineer" />
 </p>
 
 <p align="center">
@@ -17,17 +21,27 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me | نبذة عني
 
-🎓 Information Technology Student (Level 3)  
-📍 Yemen 🇾🇪  
-💻 Passionate about Software Development  
-📱 Learning Flutter & Dart  
-🗄️ Interested in Database Administration (DBA)  
-🌐 Exploring Web Development  
-🚀 Building my programming skills every day  
+🇾🇪 **سامي فيصل المزحاني**  
+🎓 طالب تقنية معلومات - المستوى الثالث
 
-🎯 **Goal:** Become a Professional Software Engineer & Mobile Developer
+أنا طالب في تخصص تقنية المعلومات، مهتم بتطوير البرمجيات وتعلم التقنيات الحديثة. أسعى إلى تطوير مهاراتي في البرمجة، تطوير تطبيقات الهاتف، وإدارة قواعد البيانات من خلال بناء مشاريع عملية والتعلم المستمر.
+
+I am an Information Technology student passionate about software development and learning modern technologies. I am interested in mobile application development, database administration, and building practical projects to improve my programming skills.
+
+### My Interests | اهتماماتي
+
+- 💻 Software Development | تطوير البرمجيات
+- 📱 Mobile Application Development | تطوير تطبيقات الهاتف
+- 🗄️ Database Administration (DBA) | إدارة قواعد البيانات
+- 🌐 Web Development | تطوير الويب
+- ☁️ Cloud Computing | الحوسبة السحابية
+- 🚀 Open Source | المصادر المفتوحة
+
+🎯 **Goal | الهدف:**  
+Become a Professional Software Engineer & Mobile Developer  
+أن أصبح مهندس برمجيات محترف ومطور تطبيقات متميز
 
 
 ---
@@ -58,7 +72,6 @@
 ---
 
 # 🎥 Learning Resources
-
 
 ## 📱 Flutter & Dart
 
@@ -152,7 +165,6 @@ https://www.youtube.com/@TraversyMedia
 
 # 📊 GitHub Statistics
 
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Samigh2005&show_icons=true&theme=tokyonight" />
@@ -205,14 +217,3 @@ https://www.youtube.com/@TraversyMedia
 ⭐ Keep Learning | Keep Building | Keep Improving 🚀
 
 </h3>
-
-
----
-
-### 🔄 Git & GitHub
-
-- 📺 Git & GitHub Full Course (freeCodeCamp)  
-  https://www.youtube.com/watch?v=RGOj5yH7evk
-
-- 📺 Traversy Media - Git Crash Course  
-  https://www.youtube.com/watch?v=SWYqp7iY_Tc
