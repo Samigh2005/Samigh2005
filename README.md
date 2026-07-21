@@ -18,7 +18,6 @@
 <img src="https://komarev.com/ghpvc/?username=Samigh2005&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me | نبذة عني
@@ -43,7 +42,6 @@ I am an Information Technology student passionate about software development and
 Become a Professional Software Engineer & Mobile Developer  
 أن أصبح مهندس برمجيات محترف ومطور تطبيقات متميز
 
-
 ---
 
 # 🛠️ Languages & Tools
@@ -53,7 +51,6 @@ Become a Professional Software Engineer & Mobile Developer
 <img src="https://skillicons.dev/icons?i=python,java,dart,flutter,html,css,js,mysql,git,github,vscode,linux" />
 
 </p>
-
 
 ---
 
@@ -67,7 +64,6 @@ Become a Professional Software Engineer & Mobile Developer
 🧩 Object-Oriented Programming  
 📚 Data Structures & Algorithms  
 🔄 Git & GitHub  
-
 
 ---
 
@@ -83,7 +79,6 @@ https://www.youtube.com/@CodeWithAndrea
 
 🔗 The Net Ninja Flutter  
 https://www.youtube.com/@NetNinja
-
 
 ---
 
@@ -101,7 +96,6 @@ https://www.youtube.com/@NetNinja
 🔗 Krish Naik Database Tutorials  
 https://www.youtube.com/@krishnaik06
 
-
 ---
 
 ## 🌐 Web Development
@@ -115,7 +109,6 @@ https://www.youtube.com/@SuperSimpleDev
 🔗 Kevin Powell CSS  
 https://www.youtube.com/@KevinPowell
 
-
 ---
 
 ## 🐍 Python
@@ -125,7 +118,6 @@ https://www.youtube.com/@BroCodez
 
 🔗 Programming With Mosh  
 https://www.youtube.com/@programmingwithmosh
-
 
 ---
 
@@ -137,6 +129,66 @@ https://www.youtube.com/@freecodecamp
 🔗 Traversy Media Git  
 https://www.youtube.com/@TraversyMedia
 
+---
+
+# 👨‍💻 Ahmed Adel Resources | مصادر المبرمج أحمد عادل
+
+🔗 GitHub Profile  
+https://github.com/ahmedlearnSimply
+
+🔗 Awesome GitHub Profile README Ideas  
+https://zzetao.github.io/awesome-github-profile/
+
+---
+
+## ☕ Java Course | كورس لغة جافا
+
+🔗 Java Course Level 1  
+https://learrnsimply.com/courses/java-course-level1/
+
+---
+
+## 🧠 Data Structures | هياكل البيانات
+
+🔗 Data Structures Course  
+https://learrnsimply.com/courses/data-structure-c/
+
+---
+
+## 📚 Programming Books | كتب برمجية مفيدة
+
+🔗 Programming Books Collection  
+https://learrnsimply.com/%d9%83%d8%aa%d8%a8-%d8%a8%d8%b1%d9%85%d8%ac%d9%8a%d8%a9/
+
+---
+
+## 🗂️ Notion Templates | قوالب تنظيم ومذاكرة
+
+🔗 Notion Template 1  
+https://ahmedadell.gumroad.com/l/fbbqmg
+
+🔗 Notion Template 2  
+https://ahmedadell.gumroad.com/l/vurjg
+
+---
+
+## 📥 Telegram Resources
+
+🔗 Telegram Channel  
+https://t.me/Et3lambBsata
+
+---
+
+## 🌐 Ahmed Adel Social Media
+
+📸 Instagram  
+https://www.instagram.com/ahmed.aaddel/
+
+💼 LinkedIn  
+https://www.linkedin.com/in/ahmed-adel-11bba6177/
+
+🐦 Facebook  
+https://www.facebook.com/AhmedAdel.Learn/
 
 ---
 
@@ -147,7 +199,6 @@ https://www.youtube.com/@TraversyMedia
 📌 Personal Portfolio Website  
 📌 Flutter Mobile Applications  
 📌 Database Management Projects  
-
 
 ---
 
@@ -160,7 +211,6 @@ https://www.youtube.com/@TraversyMedia
 ✅ Contribute to Open Source  
 ✅ Build Professional GitHub Portfolio  
 
-
 ---
 
 # 📊 GitHub Statistics
@@ -171,20 +221,17 @@ https://www.youtube.com/@TraversyMedia
 
 </p>
 
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samigh2005&theme=tokyonight" />
 
 </p>
 
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samigh2005&layout=compact&theme=tokyonight" />
 
 </p>
-
 
 ---
 
@@ -195,7 +242,6 @@ https://www.youtube.com/@TraversyMedia
 <img src="https://github-profile-trophy.vercel.app/?username=Samigh2005&theme=tokyonight&row=1&column=6" />
 
 </p>
-
 
 ---
 
@@ -208,7 +254,6 @@ https://www.youtube.com/@TraversyMedia
 </a>
 
 </p>
-
 
 ---
 
