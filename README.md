@@ -1,132 +1,104 @@
-# Hi there 👋, I'm Sami Faisal Al-Mazhani
-
-### 🎓 Information Technology Student | Level 3
-
-I'm an Information Technology student passionate about software development, mobile application development, and database administration. I enjoy learning new technologies, building practical projects, and continuously improving my programming skills.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Information Technology Student (Level 3)
-- 📍 Yemen 🇾🇪
-- 💻 Passionate about Software Development
-- 📱 Learning Flutter & Dart
-- 🗄️ Interested in Database Administration (DBA)
-- 🌐 Exploring Web Development
-- 🚀 Always learning new technologies
-- 🎯 Goal: Become a Professional Software Engineer & Mobile Developer
-
----
-
-## 💡 Interests
-
-- 📱 Mobile Application Development
-- 💻 Software Development
-- 🗄️ Database Administration (DBA)
-- 🌐 Web Development
-- ☁️ Cloud Computing
-- 🚀 Open Source
-
----
-
-## 🎯 Current Focus
-
-- 📱 Flutter Development
-- 🎯 Dart Programming Language
-- 🗄️ Database Administration (DBA)
-- 💾 SQL & MySQL
-- 🧩 Data Structures & Algorithms
-- 🚀 Building Practical Projects
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-</p>
-
----
-
-## 📚 Currently Learning
-
-- 📱 Flutter Development
-- 🎯 Dart Programming Language
-- 🗄️ Database Administration (DBA)
-- 💾 SQL & MySQL
-- 🌐 Web Development
-- 🧩 Object-Oriented Programming (OOP)
-- 📚 Data Structures & Algorithms
-- 🔄 Git & GitHub
-
----
-
 ## 🎥 Learning Resources
 
-### 📱 Flutter & Dart
+### 📱 Flutter
 
-- 📺 Flutter (Official YouTube)
-- 📺 freeCodeCamp.org
-- 📺 The Net Ninja
-- 📺 Code With Andrea
+- 📺 Flutter Official Channel  
+  https://www.youtube.com/@flutterdev
+
+- 📺 Flutter Course (freeCodeCamp)  
+  https://www.youtube.com/watch?v=VPvVD8t02U8
+
+- 📺 Code With Andrea  
+  https://www.youtube.com/@CodeWithAndrea
+
+- 📺 The Net Ninja - Flutter Playlist  
+  https://www.youtube.com/@NetNinja
+
+---
+
+### 🎯 Dart
+
+- 📺 Dart Official Channel  
+  https://www.youtube.com/@DartLang
+
+- 📺 Dart Programming Course (freeCodeCamp)  
+  https://www.youtube.com/results?search_query=freecodecamp+dart+course
+
+---
 
 ### 🗄️ Database Administration (DBA)
 
-- 📺 Neso Academy – Database Management Systems
-- 📺 freeCodeCamp – SQL Full Course
-- 📺 The Net Ninja – SQL Tutorials
-- 📺 Krish Naik – SQL & Database Concepts
+- 📺 Neso Academy (DBMS Playlist)  
+  https://www.youtube.com/@nesoacademy
+
+- 📺 freeCodeCamp - SQL Course  
+  https://www.youtube.com/watch?v=HXV3zeQKqGY
+
+- 📺 The Net Ninja - SQL Tutorials  
+  https://www.youtube.com/@NetNinja
+
+- 📺 Krish Naik (SQL & Database Concepts)  
+  https://www.youtube.com/@krishnaik06
 
 ---
 
-## 📈 GitHub Stats
+### 💾 SQL & MySQL
 
-![](https://github-readme-stats.vercel.app/api?username=Samigh2005&show_icons=true&theme=tokyonight)
+- 📺 Bro Code - SQL Full Course  
+  https://www.youtube.com/watch?v=5OdVJbNCSso
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samigh2005&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Projects
-
-Here are some of my university and personal projects:
-
-- 📌 Student Management System
-- 📌 Library Management System
-- 📌 Personal Portfolio Website
-- 📌 Flutter Mobile Applications (Coming Soon)
-- 📌 Database Projects
+- 📺 Programming with Mosh - SQL Tutorial  
+  https://www.youtube.com/watch?v=7S_tz1z_5bA
 
 ---
 
-## 🎯 Goals
+### 🌐 Web Development
 
-- ✅ Master Flutter & Dart
-- ✅ Build Professional Mobile Applications
-- ✅ Learn Database Administration (DBA)
-- ✅ Improve SQL Skills
-- ✅ Contribute to Open Source
-- ✅ Build a Strong GitHub Portfolio
+- 📺 Traversy Media  
+  https://www.youtube.com/@TraversyMedia
 
----
+- 📺 SuperSimpleDev  
+  https://www.youtube.com/@SuperSimpleDev
 
-## 📫 Contact Me
-
-- GitHub: https://github.com/Samigh2005
-- Email: your-email@example.com
-- LinkedIn: (Optional)
+- 📺 Kevin Powell (CSS)  
+  https://www.youtube.com/@KevinPowell
 
 ---
 
-> **"Learning never stops. Every project is a new opportunity to grow." 🚀**
+### 🐍 Python
+
+- 📺 Bro Code - Python Full Course  
+  https://www.youtube.com/watch?v=XKHEtdqhLK8
+
+- 📺 Programming with Mosh - Python  
+  https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
+---
+
+### ☕ Java
+
+- 📺 Bro Code - Java Full Course  
+  https://www.youtube.com/watch?v=xk4_1vDrzzo
+
+- 📺 Amigoscode  
+  https://www.youtube.com/@amigoscode
+
+---
+
+### 📚 Data Structures & Algorithms
+
+- 📺 Abdul Bari  
+  https://www.youtube.com/@abdul_bari
+
+- 📺 freeCodeCamp - Data Structures & Algorithms  
+  https://www.youtube.com/results?search_query=freecodecamp+data+structures+algorithms
+
+---
+
+### 🔄 Git & GitHub
+
+- 📺 Git & GitHub Full Course (freeCodeCamp)  
+  https://www.youtube.com/watch?v=RGOj5yH7evk
+
+- 📺 Traversy Media - Git Crash Course  
+  https://www.youtube.com/watch?v=SWYqp7iY_Tc
