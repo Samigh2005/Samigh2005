@@ -2,21 +2,42 @@
 
 ### 🎓 Information Technology Student | Level 3
 
-I'm an Information Technology student passionate about learning new technologies, building practical projects, and improving my programming skills. I'm always looking for opportunities to develop myself and contribute to open-source projects.
+I'm an Information Technology student passionate about software development, mobile application development, and database administration. I enjoy learning new technologies, building practical projects, and continuously improving my programming skills.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Information Technology Student (Level 3)
-- 📍 Yemen
-- 💻 Interested in Software Development
-- 🌱 Currently learning:
-  - Python
-  - Java
-  - Web Development
-  - Database Systems
-- 🎯 Goal: Become a Professional Software Engineer
+- 📍 Yemen 🇾🇪
+- 💻 Passionate about Software Development
+- 📱 Learning Flutter & Dart
+- 🗄️ Interested in Database Administration (DBA)
+- 🌐 Exploring Web Development
+- 🚀 Always learning new technologies
+- 🎯 Goal: Become a Professional Software Engineer & Mobile Developer
+
+---
+
+## 💡 Interests
+
+- 📱 Mobile Application Development
+- 💻 Software Development
+- 🗄️ Database Administration (DBA)
+- 🌐 Web Development
+- ☁️ Cloud Computing
+- 🚀 Open Source
+
+---
+
+## 🎯 Current Focus
+
+- 📱 Flutter Development
+- 🎯 Dart Programming Language
+- 🗄️ Database Administration (DBA)
+- 💾 SQL & MySQL
+- 🧩 Data Structures & Algorithms
+- 🚀 Building Practical Projects
 
 ---
 
@@ -25,6 +46,8 @@ I'm an Information Technology student passionate about learning new technologies
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
@@ -38,19 +61,40 @@ I'm an Information Technology student passionate about learning new technologies
 
 ## 📚 Currently Learning
 
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Database Design
-- Web Development
-- Git & GitHub
+- 📱 Flutter Development
+- 🎯 Dart Programming Language
+- 🗄️ Database Administration (DBA)
+- 💾 SQL & MySQL
+- 🌐 Web Development
+- 🧩 Object-Oriented Programming (OOP)
+- 📚 Data Structures & Algorithms
+- 🔄 Git & GitHub
+
+---
+
+## 🎥 Learning Resources
+
+### 📱 Flutter & Dart
+
+- 📺 Flutter (Official YouTube)
+- 📺 freeCodeCamp.org
+- 📺 The Net Ninja
+- 📺 Code With Andrea
+
+### 🗄️ Database Administration (DBA)
+
+- 📺 Neso Academy – Database Management Systems
+- 📺 freeCodeCamp – SQL Full Course
+- 📺 The Net Ninja – SQL Tutorials
+- 📺 Krish Naik – SQL & Database Concepts
 
 ---
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Samigh2005&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samigh2005&layout=compact&theme=tokyonight)
 
 ---
 
@@ -61,16 +105,28 @@ Here are some of my university and personal projects:
 - 📌 Student Management System
 - 📌 Library Management System
 - 📌 Personal Portfolio Website
-- 📌 Python Desktop Applications
+- 📌 Flutter Mobile Applications (Coming Soon)
+- 📌 Database Projects
+
+---
+
+## 🎯 Goals
+
+- ✅ Master Flutter & Dart
+- ✅ Build Professional Mobile Applications
+- ✅ Learn Database Administration (DBA)
+- ✅ Improve SQL Skills
+- ✅ Contribute to Open Source
+- ✅ Build a Strong GitHub Portfolio
 
 ---
 
 ## 📫 Contact Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Samigh2005
 - Email: your-email@example.com
 - LinkedIn: (Optional)
 
 ---
 
-> *"Keep learning, keep building, and never stop improving."* 🚀
+> **"Learning never stops. Every project is a new opportunity to grow." 🚀**
