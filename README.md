@@ -2,16 +2,17 @@
 <p align="center">
   <img src="./assets/ChatGPT%20Image%20Jul%2022,%202026,%2003_11_00%20AM.png" alt="Sami Banner" width="100%">
 </p>
+
 <h1 align="center">
-  Hi 👋 I'm <span style="color:#00F7FF;">Sami Faisal Al-Mazhani</span>
+  مرحبًا 👋 أنا <span style="color:#00F7FF;">سامي فيصل المزحاني</span>
 </h1>
 
 <h3 align="center">
-🇾🇪 Information Technology Student • Software Developer
+🇾🇪 طالب تقنية معلومات • مطور برمجيات
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Flutter+Developer;Java+Programmer;Database+Administration+Enthusiast;Future+Software+Engineer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=طالب+تقنية+معلومات;Flutter+Developer;Java+Programmer;Database+Administration+Enthusiast;Future+Software+Engineer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -26,76 +27,76 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 نبذة عني
 
 <img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 👋 Hello!
+### 👋 أهلاً بك!
 
-I'm **Sami Faisal Al-Mazhani**, an Information Technology student passionate about building software and learning modern technologies.
+أنا **سامي فيصل المزحاني**، طالب في تخصص **تقنية المعلومات**، شغوف بتطوير البرمجيات وتعلم التقنيات الحديثة.
 
-I enjoy creating practical projects that improve my programming skills while exploring different areas of software development.
+أستمتع ببناء المشاريع العملية التي تساعدني على تطوير مهاراتي البرمجية، واستكشاف مختلف مجالات هندسة وتطوير البرمجيات.
 
-### 🚀 Current Focus
+### 🚀 أركز حاليًا على
 
-- 📱 Flutter & Dart Development
-- ☕ Java Programming
-- 🗄️ Database Administration
-- 🌐 Web Development
-- 💻 Software Engineering
-- ☁️ Cloud Computing
+- 📱 تطوير تطبيقات Flutter و Dart
+- ☕ برمجة Java
+- 🗄️ إدارة قواعد البيانات
+- 🌐 تطوير الويب
+- 💻 هندسة البرمجيات
+- ☁️ الحوسبة السحابية
 
-### 🎯 Career Goal
+### 🎯 هدفي المهني
 
-Become a Professional Software Engineer specializing in Mobile Development and Database Systems while contributing to Open Source projects.
-
----
-
-# 💡 What I'm Doing
-
-🌱 Learning Flutter & Dart
-
-📚 Studying Database Administration
-
-💻 Building University Projects
-
-🚀 Improving Problem Solving Skills
-
-🔍 Exploring Software Engineering
+أن أصبح مهندس برمجيات محترفًا متخصصًا في تطوير تطبيقات الهاتف وقواعد البيانات، مع المساهمة في المشاريع مفتوحة المصدر.
 
 ---
 
-# 🌍 Interests
+# 💡 ما أعمل عليه حاليًا
 
-- 💙 Mobile Development
-- 🖥 Software Engineering
-- 🗄 Database Administration
-- 🌐 Web Technologies
-- ☁ Cloud Computing
-- 🚀 Open Source
+🌱 تعلم Flutter و Dart
+
+📚 دراسة إدارة قواعد البيانات
+
+💻 بناء مشاريع جامعية
+
+🚀 تطوير مهارات حل المشكلات
+
+🔍 التعمق في هندسة البرمجيات
 
 ---
 
-# 📈 Current Journey
+# 🌍 اهتماماتي
+
+- 💙 تطوير تطبيقات الهاتف
+- 🖥️ هندسة البرمجيات
+- 🗄️ إدارة قواعد البيانات
+- 🌐 تقنيات الويب
+- ☁️ الحوسبة السحابية
+- 🚀 المصادر المفتوحة
+
+---
+
+# 📈 رحلتي الحالية
 
 ```text
-Programming        █████████░░░
-Flutter            ███████░░░░░
-Java               ████████░░░░
-SQL                ███████░░░░░
-Git & GitHub       ████████░░░░
-Learning           ████████████
+البرمجة              █████████░░░
+Flutter              ███████░░░░░
+Java                 ████████░░░░
+SQL                  ███████░░░░░
+Git & GitHub         ████████░░░░
+التعلم               ████████████
 ```
 
 ---
 
-> **"Keep Learning • Keep Building • Keep Improving 🚀"**
+> **"استمر في التعلم • استمر في البناء • استمر في التطور 🚀"**
 
 ---
 
 <!-- ====================== TECH STACK ====================== -->
 
-# 🛠️ Tech Stack
+# 🛠️ التقنيات والأدوات
 
 <p align="center">
 
@@ -118,24 +119,22 @@ Learning           ████████████
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
+---
+# 💻 لغات البرمجة
+
+| اللغة | المستوى |
+|--------|----------|
+| ☕ Java | متوسط |
+| 🐍 Python | متوسط |
+| 🎯 Dart | أتعلمها |
+| 🌐 HTML | جيد |
+| 🎨 CSS | جيد |
+| ⚡ JavaScript | أتعلمها |
+| 🗄 SQL | متوسط |
 
 ---
 
-# 💻 Programming Languages
-
-| Language | Level |
-|----------|------|
-| ☕ Java | Intermediate |
-| 🐍 Python | Intermediate |
-| 🎯 Dart | Learning |
-| 🌐 HTML | Good |
-| 🎨 CSS | Good |
-| ⚡ JavaScript | Learning |
-| 🗄 SQL | Intermediate |
-
----
-
-# ⚙️ Development Tools
+# ⚙️ أدوات التطوير
 
 - 💻 Visual Studio Code
 - 🐙 Git & GitHub
@@ -145,60 +144,60 @@ Learning           ████████████
 
 ---
 
-# 📚 Currently Learning
+# 📚 أتعلم حاليًا
 
 <div align="center">
 
-| 🚀 Technology | 📖 Status |
-|---------------|----------|
-| Flutter Development | 🟢 Learning |
-| Dart Programming | 🟢 Learning |
-| Database Administration | 🟢 Learning |
-| SQL & MySQL | 🟢 Improving |
-| Web Development | 🟢 Learning |
-| Object-Oriented Programming | 🟢 Improving |
-| Data Structures & Algorithms | 🟢 Studying |
-| Git & GitHub | 🟢 Daily Practice |
+| 🚀 التقنية | 📖 الحالة |
+|------------|-----------|
+| تطوير Flutter | 🟢 أتعلم |
+| برمجة Dart | 🟢 أتعلم |
+| إدارة قواعد البيانات | 🟢 أتعلم |
+| SQL & MySQL | 🟢 أطور مهاراتي |
+| تطوير الويب | 🟢 أتعلم |
+| البرمجة كائنية التوجه (OOP) | 🟢 أطور مهاراتي |
+| هياكل البيانات والخوارزميات | 🟢 أدرسها |
+| Git & GitHub | 🟢 ممارسة يومية |
 
 </div>
 
 ---
 
-# 🎯 2026 Learning Roadmap
+# 🎯 خارطة التعلم لعام 2026
 
-- ✅ Master Java Programming
-- 🔄 Become Professional in Flutter
-- 🔄 Build Production Mobile Apps
-- 🔄 Learn REST APIs
-- 🔄 Improve Database Design
-- 🔄 Learn Clean Architecture
-- 🔄 Learn Firebase
-- 🔄 Contribute to Open Source
+- ✅ إتقان برمجة Java
+- 🔄 الاحتراف في Flutter
+- 🔄 بناء تطبيقات جوال جاهزة للإنتاج
+- 🔄 تعلم REST APIs
+- 🔄 تحسين تصميم قواعد البيانات
+- 🔄 تعلم Clean Architecture
+- 🔄 تعلم Firebase
+- 🔄 المساهمة في المشاريع مفتوحة المصدر
 
 ---
 
 <!-- ====================== LEARNING RESOURCES ====================== -->
 
-# 📚 Learning Resources
+# 📚 المصادر التعليمية
 
-> A curated collection of the learning resources I use throughout my programming journey.
+> مجموعة مختارة من المصادر التي أعتمد عليها في رحلتي لتعلم البرمجة.
 
 ---
 
 # 📱 Flutter & Dart
 
-| Resource | Link |
-|----------|------|
+| المصدر | الرابط |
+|---------|--------|
 | Flutter Official | https://www.youtube.com/@flutterdev |
 | Code With Andrea | https://www.youtube.com/@CodeWithAndrea |
 | The Net Ninja Flutter | https://www.youtube.com/@NetNinja |
 
 ---
 
-# 🗄 Database Administration & SQL
+# 🗄 إدارة قواعد البيانات و SQL
 
-| Resource | Link |
-|----------|------|
+| المصدر | الرابط |
+|---------|--------|
 | Neso Academy DBMS | https://www.youtube.com/@nesoacademy |
 | freeCodeCamp SQL | https://www.youtube.com/@freecodecamp |
 | The Net Ninja SQL | https://www.youtube.com/@NetNinja |
@@ -206,10 +205,10 @@ Learning           ████████████
 
 ---
 
-# 🌐 Web Development
+# 🌐 تطوير الويب
 
-| Resource | Link |
-|----------|------|
+| المصدر | الرابط |
+|---------|--------|
 | Traversy Media | https://www.youtube.com/@TraversyMedia |
 | SuperSimpleDev | https://www.youtube.com/@SuperSimpleDev |
 | Kevin Powell CSS | https://www.youtube.com/@KevinPowell |
@@ -218,8 +217,8 @@ Learning           ████████████
 
 # 🐍 Python
 
-| Resource | Link |
-|----------|------|
+| المصدر | الرابط |
+|---------|--------|
 | Bro Code | https://www.youtube.com/@BroCodez |
 | Programming With Mosh | https://www.youtube.com/@programmingwithmosh |
 
@@ -227,17 +226,17 @@ Learning           ████████████
 
 # 🔄 Git & GitHub
 
-| Resource | Link |
-|----------|------|
+| المصدر | الرابط |
+|---------|--------|
 | freeCodeCamp Git | https://www.youtube.com/@freecodecamp |
 | Traversy Media Git | https://www.youtube.com/@TraversyMedia |
 
 ---
 
-# 👨‍💻 Ahmed Adel Resources
+# 👨‍💻 مصادر المبرمج أحمد عادل
 
-| Resource | Link |
-|----------|------|
+| المصدر | الرابط |
+|---------|--------|
 | GitHub Profile | https://github.com/ahmedlearnSimply |
 | Awesome GitHub README Ideas | https://zzetao.github.io/awesome-github-profile/ |
 | Java Course Level 1 | https://learrnsimply.com/courses/java-course-level1/ |
@@ -252,7 +251,7 @@ Learning           ████████████
 
 ---
 
-# ⭐ Favorite Learning Platforms
+# ⭐ منصات التعلم المفضلة
 
 - 🎓 YouTube
 - 💻 GitHub
@@ -262,23 +261,25 @@ Learning           ████████████
 
 ---
 
+> 💡 **التعلم لا يتوقف أبدًا، فكل مطور محترف بدأ بخطوة فضول.**
+---
+
 > 💡 **Learning never stops. Every great developer starts with curiosity.**
 
----
-<!-- ====================== PROJECTS ====================== -->
+---<!-- ====================== PROJECTS ====================== -->
 
-# 🚀 Featured Projects
+# 🚀 أبرز مشاريعي
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🎓 Student Management System
+### 🎓 نظام إدارة الطلاب
 
-📌 Manage students and academic information.
+📌 نظام لإدارة بيانات الطلاب والمعلومات الأكاديمية.
 
-**Tech Stack**
+**التقنيات المستخدمة**
 
 - Java
 - MySQL
@@ -287,11 +288,11 @@ Learning           ████████████
 
 <td width="50%">
 
-### 📚 Library Management System
+### 📚 نظام إدارة المكتبة
 
-📌 Manage books and borrowing operations.
+📌 نظام لإدارة الكتب وعمليات الاستعارة.
 
-**Tech Stack**
+**التقنيات المستخدمة**
 
 - Java
 - SQL
@@ -304,11 +305,11 @@ Learning           ████████████
 
 <td width="50%">
 
-### 🌐 Personal Portfolio Website
+### 🌐 موقعي الشخصي
 
-📌 Responsive portfolio website.
+📌 موقع شخصي متجاوب لعرض أعمالي ومهاراتي.
 
-**Tech Stack**
+**التقنيات المستخدمة**
 
 - HTML
 - CSS
@@ -318,11 +319,11 @@ Learning           ████████████
 
 <td width="50%">
 
-### 📱 Flutter Mobile Applications
+### 📱 تطبيقات Flutter
 
-📌 Cross-platform mobile applications.
+📌 تطبيقات جوال تعمل على مختلف المنصات.
 
-**Tech Stack**
+**التقنيات المستخدمة**
 
 - Flutter
 - Dart
@@ -334,20 +335,20 @@ Learning           ████████████
 
 ---
 
-# 🎯 Future Goals
+# 🎯 أهدافي المستقبلية
 
-- ✅ Master Flutter & Dart
-- ✅ Build Professional Mobile Applications
-- ✅ Become Skilled in Database Administration
-- ✅ Improve Software Engineering Skills
-- ✅ Learn Clean Architecture
-- ✅ Learn Firebase
-- ✅ Contribute to Open Source
-- ✅ Build a Professional GitHub Portfolio
+- ✅ إتقان Flutter و Dart
+- ✅ تطوير تطبيقات جوال احترافية
+- ✅ الاحتراف في إدارة قواعد البيانات
+- ✅ تطوير مهارات هندسة البرمجيات
+- ✅ تعلم Clean Architecture
+- ✅ تعلم Firebase
+- ✅ المساهمة في المشاريع مفتوحة المصدر
+- ✅ بناء معرض أعمال احترافي على GitHub
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 إحصائيات GitHub
 
 <p align="center">
 
@@ -365,7 +366,7 @@ Learning           ████████████
 
 ---
 
-# 📈 Contribution Graph
+# 📈 رسم بياني للمساهمات
 
 <p align="center">
 
@@ -375,7 +376,7 @@ Learning           ████████████
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 إنجازات GitHub
 
 <p align="center">
 
@@ -385,7 +386,7 @@ Learning           ████████████
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 ثعبان المساهمات
 
 <p align="center">
 
@@ -393,11 +394,11 @@ Learning           ████████████
 
 </p>
 
-> **ملاحظة:** هذا السطر لن يعمل إلا بعد إنشاء GitHub Action لتوليد الـ Snake. سأشرح لك ذلك لاحقًا.
+> **ملاحظة:** لن يعمل هذا القسم إلا بعد إعداد GitHub Actions لإنشاء رسم الثعبان تلقائيًا.
 
 ---
 
-# 📫 Connect With Me
+# 📫 تواصل معي
 
 <p align="center">
 
@@ -411,7 +412,7 @@ Learning           ████████████
 
 <h2 align="center">
 
-⭐ Keep Learning • Keep Building • Keep Improving 🚀
+⭐ استمر في التعلم • استمر في البناء • استمر في التطور 🚀
 
 </h2>
 
@@ -420,6 +421,9 @@ Learning           ████████████
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007ACC&height=120&section=footer"/>
 
 </p>
-⭐ Keep Learning | Keep Building | Keep Improving 🚀
+
+<h3 align="center">
+
+⭐ استمر في التعلم | استمر في البناء | استمر في التطور 🚀
 
 </h3>
