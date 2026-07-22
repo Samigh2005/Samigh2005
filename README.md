@@ -1,6 +1,6 @@
 <!-- ====================== HEADER ====================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Samigh2005/Samigh2005/main/assets/banner.png" alt="Sami Faisal Al-Mazhani Banner" width="100%">
+  <img src="./assets/ChatGPT%20Image%20Jul%2022,%202026,%2003_11_00%20AM.png" alt="Sami Banner" width="100%">
 </p>
 <h1 align="center">
   Hi 👋 I'm <span style="color:#00F7FF;">Sami Faisal Al-Mazhani</span>
